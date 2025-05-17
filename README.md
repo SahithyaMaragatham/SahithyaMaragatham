@@ -12,7 +12,7 @@ I'm a passionate software developer from India, specializing in web development 
 
 - 📫 How to reach me **da.sahithyamaragatham@gmail.com**
 
-- 📄 Know about my experiences [-Resume](https://drive.google.com/file/d/1ZttViPmIZn80qlvauWf3OZcIl9Qpbkpc/view?usp=sharing)
+- 📄 Know about my experiences [-Resume](https://drive.google.com/file/d/1UX4PVIQFmOQCD7ETG6FOW7xaXSnaWifQ/view?usp=drive_link)
 
 - ⚡ Fun fact **Aside from coding, I have a passion for learning new programming languages and frameworks. In my downtime, I enjoy playing chess and exploring different genres of music.**
 
